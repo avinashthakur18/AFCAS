@@ -1,0 +1,16 @@
+Student_ID,Name,Class,Month,Fee_Amount,Status
+101,Rahul,10,January,2000,Paid
+102,Anita,10,January,2000,Pending
+103,Aman,9,February,1800,Paid
+104,Pooja,9,February,1800,Pending
+105,Ravi,8,March,1500,Paid
+106,Neha,8,March,1500,Paid
+107,Karan,10,April,2000,Pending
+108,Simran,9,April,1800,Paid
+109,Aakash,8,May,1500,Paid
+110,Nidhi,10,May,2000,Pending
+111,Varun,9,June,1800,Paid
+112,Priya,8,June,1500,Pending
+113,Sachin,10,July,2000,Paid
+114,Kavita,9,July,1800,Paid
+115,Manish,8,August,1500,Pending
